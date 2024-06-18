@@ -66,6 +66,6 @@ $$
 
 ## Le notebook
 
-Un [notebook](Code/Pendule_de_Foucault.ipynb) est disponible et illustre les résultats de simulation avec différentes conditions initiales.
+Un [notebook](Notebook/Pendule_de_Foucault.ipynb) est disponible et illustre les résultats de simulation avec différentes conditions initiales.
 
 ## Le code
