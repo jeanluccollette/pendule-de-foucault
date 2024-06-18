@@ -9,7 +9,7 @@ L'idée ici est d'accéder à une équation d'état qui ne fasse pas appel aux a
 En rapport avec la modélisation proposée ici, cet effet induit une vitesse de précession $\omega_{puiseux}$ du plan d'oscillation du pendule qui s'exprime approximativement en fonction des paramètres ci-dessous.
 
 - $l$ : longueur du pendule en m
-- $R$ : écart par rapport à la verticale en m
+- $R$ : écart dans le plan horizontal par rapport à la verticale en m
 - $V$ : vitesse initiale latérale en m/s
 
 $$\omega_{puiseux} \approx \dfrac{3RV}{8l^2}$$
