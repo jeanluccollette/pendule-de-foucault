@@ -6,7 +6,13 @@
 
 
 ### Les notations
-On note $\vec{p}$ la position de la masse $m$ suspendue à un fil de longueur $l$, $\vec{v}$ sa vitesse et $\vec{a}$ son accélération, définis dans un repère orthonormé $(\begin{matrix}\vec{u}_x&\vec{u}_y&\vec{u}_z\end{matrix})$. Le vecteur $\vec{u}_z$ pointe vers le zénith, $\vec{u}_x$ vers le nord et $\vec{u}_y$ vers l'ouest.
+On note $\vec{p}$ la position de la masse $m$ suspendue à un fil de longueur $l$, $\vec{v}$ sa vitesse et $\vec{a}$ son accélération, définis dans un repère orthonormé
+
+```math
+\begin{pmatrix}\vec{u}_x&\vec{u}_y&\vec{u}_z\end{pmatrix}
+```
+
+Le vecteur $\vec{u}_z$ pointe vers le zénith, $\vec{u}_x$ vers le nord et $\vec{u}_y$ vers l'ouest.
 ### Principe fondamental de la dynamique
 Bilan des forces, avec la tension $\vec{T}$ du fil, colinéaire à ce fil :
 
