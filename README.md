@@ -9,6 +9,10 @@ On note $\vec{p}$ la position de la masse $m$ suspendue à un fil de longueur $l
 \begin{pmatrix}\vec{u}_x&\vec{u}_y&\vec{u}_z\end{pmatrix}
 ```
 
+$$
+\begin{pmatrix}\vec{u}_x&\vec{u}_y&\vec{u}_z\end{pmatrix}
+$$
+
 Le vecteur $\vec{u}_z$ pointe vers le zénith, $\vec{u}_x$ vers le nord et $\vec{u}_y$ vers l'ouest.
 
 ![](Data/penduledefoucault.png)
