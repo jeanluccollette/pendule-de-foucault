@@ -69,3 +69,12 @@ $$
 Un [notebook](Notebook/Pendule_de_Foucault.ipynb) est disponible et illustre les résultats de simulation avec différentes conditions initiales.
 
 ## Le code
+
+Un [programme Python](Code/pf.py) est disponible et permet de lancer différentes simulations.
+
+```python
+>>> import pf
+>>> pf.pf_sim(l=30, g=9.81, OT=0, Lat=45,R=28, V=1, Dir=0,Duree=100, Pas=0.02, methode='rk4')
+début de la simulation numérique
+fin de la simulation à 0:00:00.815646 (hh:mm:ss.ms)
+```
