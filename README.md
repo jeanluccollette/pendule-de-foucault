@@ -26,10 +26,10 @@ L'équation dynamique avec l'état
 est alors :
 
 ```math
-l^2\ddot{x}&=-xy\gamma_y-xz\gamma_z+(l^2-x^2)\gamma_x-xv^2
+l^2\ddot{x}=-xy\gamma_y-xz\gamma_z+(l^2-x^2)\gamma_x-xv^2
 ```
 
 
 ```math
-l^2\ddot{y}&=-yx\gamma_x-yz\gamma_z+(l^2-y^2)\gamma_y-yv^2
+l^2\ddot{y}=-yx\gamma_x-yz\gamma_z+(l^2-y^2)\gamma_y-yv^2
 ```
