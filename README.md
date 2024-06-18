@@ -82,14 +82,23 @@ fin de la simulation à 0:00:00.815646 (hh:mm:ss.ms)
 ```
 
 Visualisation 3D de la trajectoire du pendule
+
 ![](Data/Figure_1.png)
+
 Variation relative de l'énergie totale (en théorie nulle) pour valider la précision de la simulation
+
 ![](Data/Figure_2.png)
+
 Visualisation 2D de l'extrémité du pendule
+
 ![](Data/Figure_3.png)
+
 Mesure de la vitesse de précession
+
 ![](Data/Figure_4.png)
 ![](Data/Figure_5.png)
 ![](Data/Figure_6.png)
+
 Bilan de la simulation numérique
+
 ![](Data/Figure_7.png)
