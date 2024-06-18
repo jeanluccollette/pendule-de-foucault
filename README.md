@@ -5,10 +5,6 @@
 ### Les notations
 On note $\vec{p}$ la position de la masse $m$ suspendue à un fil de longueur $l$, $\vec{v}$ sa vitesse et $\vec{a}$ son accélération, définis dans un repère orthonormé
 
-```math
-\begin{pmatrix}\vec{u}_x&\vec{u}_y&\vec{u}_z\end{pmatrix}
-```
-
 $$
 \begin{pmatrix}\vec{u}_x&\vec{u}_y&\vec{u}_z\end{pmatrix}
 $$
@@ -21,9 +17,9 @@ Le vecteur $\vec{u}_z$ pointe vers le zénith, $\vec{u}_x$ vers le nord et $\vec
 
 Bilan des forces, avec la tension $\vec{T}$ du fil, colinéaire à ce fil :
 
-```math
+$$
 \vec{T}+m\vec{\gamma}=m\vec{a}
-```
+$$
 
 Prise en compte de la pesanteur avec $g=9,81 m/s^2$ (accélération due à la gravitation et à la force d’inertie centrifuge) et de l'accélération due à force de Coriolis.
 
