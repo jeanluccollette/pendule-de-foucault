@@ -63,3 +63,9 @@ $$
 $$
 l^2\ddot{y}=-yx\gamma_x-yz\gamma_z+(l^2-y^2)\gamma_y-yv^2
 $$
+
+## Le notebook
+
+Un [notebook](Code/Pendule_de_Foucault.ipynb) est disponible et illustre les résultats de simulation avec différentes conditions initiales.
+
+## Le code
