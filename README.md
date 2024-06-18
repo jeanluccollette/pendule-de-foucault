@@ -6,13 +6,13 @@ L'expérience de Foucault est déjà ancienne et les modélisations diverses ont
 
 L'idée ici est d'accéder à une équation d'état qui ne fasse pas appel aux approximations habituelles (voir le [détail des calculs](Data/miseenequation.pdf) et la description qui suit), de sorte que l'on puisse notamment mettre en évidence par simulation numérique un [effet parasite](https://fr.wikipedia.org/wiki/Pendule_de_Foucault) mis en évidence par [Victor Puiseux](https://fr.wikipedia.org/wiki/Victor_Puiseux).
 
-En rapport avec la modélisation proposée ici, cet effet induit une vitesse de précession $\omega_{puiseux}$ du plan d'oscillation du pendule qui s'exprime en fonction des paramètres ci-dessous.
+En rapport avec la modélisation proposée ici, cet effet induit une vitesse de précession $\omega_{puiseux}$ du plan d'oscillation du pendule qui s'exprime approximativement en fonction des paramètres ci-dessous.
 
 - $l$ : longueur du pendule en m
 - $R$ : écart par rapport à la verticale en m
 - $V$ : vitesse initiale latérale en m/s
 
-$$\omega_{puiseux}=\dfrac{3RV}{8l^2}$$
+$$\omega_{puiseux} \approx \dfrac{3RV}{8l^2}$$
 
 ## Description
 
