@@ -78,3 +78,11 @@ Un [programme Python](Code/pf.py) est disponible et permet de lancer différente
 début de la simulation numérique
 fin de la simulation à 0:00:00.815646 (hh:mm:ss.ms)
 ```
+
+![](Data/Figure_1.png)
+![](Data/Figure_2.png)
+![](Data/Figure_3.png)
+![](Data/Figure_4.png)
+![](Data/Figure_5.png)
+![](Data/Figure_6.png)
+![](Data/Figure_7.png)
