@@ -17,7 +17,7 @@ Au final, on détermine complètement le mouvement avec les coordonnées $x$ et 
 
 L'équation dynamique avec l'état
 ```math
-(\begin{matrix}x&y&\dot{x}&\dot{y}\end{matrix})
+\begin{pmatrix}x&y&\dot{x}&\dot{y}\end{pmatrix}
 ```
 est alors :
 $$l^2\ddot{x}&=-xy\gamma_y-xz\gamma_z+(l^2-x^2)\gamma_x-xv^2$$
