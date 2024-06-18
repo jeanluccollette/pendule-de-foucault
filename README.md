@@ -6,7 +6,7 @@ L'expérience de Foucault est déjà ancienne et les modélisations diverses ont
 
 L'idée ici est d'accéder à une équation d'état qui ne fasse pas appel aux approximations habituelles, de sorte que l'on puisse notamment mettre en évidence par simulation numérique un [effet parasite](https://fr.wikipedia.org/wiki/Pendule_de_Foucault) mis en évidence par [Victor Puiseux](https://fr.wikipedia.org/wiki/Victor_Puiseux).
 
-![](Data/miseenequation.pdf)
+[détail des calculs](Data/miseenequation.pdf)
 
 ## Description
 
