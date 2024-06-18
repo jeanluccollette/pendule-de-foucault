@@ -2,9 +2,6 @@
 
 ## Description
 
-![](Data/penduledefoucault.png)
-
-
 ### Les notations
 On note $\vec{p}$ la position de la masse $m$ suspendue à un fil de longueur $l$, $\vec{v}$ sa vitesse et $\vec{a}$ son accélération, définis dans un repère orthonormé
 
@@ -13,7 +10,11 @@ On note $\vec{p}$ la position de la masse $m$ suspendue à un fil de longueur $l
 ```
 
 Le vecteur $\vec{u}_z$ pointe vers le zénith, $\vec{u}_x$ vers le nord et $\vec{u}_y$ vers l'ouest.
+
+![](Data/penduledefoucault.png)
+
 ### Principe fondamental de la dynamique
+
 Bilan des forces, avec la tension $\vec{T}$ du fil, colinéaire à ce fil :
 
 ```math
