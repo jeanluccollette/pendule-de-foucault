@@ -72,17 +72,24 @@ Un [notebook](Notebook/Pendule_de_Foucault.ipynb) est disponible et illustre les
 
 Un [programme Python](Code/pf.py) est disponible et permet de lancer différentes simulations.
 
+L'exemple ci-dessous est juste un premier test mettant en évidence l'effet Puiseux.
+
 ```python
 >>> import pf
->>> pf.pf_sim(l=30, g=9.81, OT=0, Lat=45,R=28, V=1, Dir=0,Duree=100, Pas=0.02, methode='rk4')
+>>> pf.pf_sim(l=30, g=9.81, OT=0, Lat=45, R=28, V=1, Dir=0,Duree=100, Pas=0.02, methode='rk4')
 début de la simulation numérique
 fin de la simulation à 0:00:00.815646 (hh:mm:ss.ms)
 ```
 
+Visualisation 3D de la trajectoire du pendule
 ![](Data/Figure_1.png)
+Variation relative de l'énergie totale (en théorie nulle) pour valider la précision de la simulation
 ![](Data/Figure_2.png)
+Visualisation 2D de l'extrémité du pendule
 ![](Data/Figure_3.png)
+Mesure de la vitesse de précession
 ![](Data/Figure_4.png)
 ![](Data/Figure_5.png)
 ![](Data/Figure_6.png)
+Bilan de la simulation numérique
 ![](Data/Figure_7.png)
