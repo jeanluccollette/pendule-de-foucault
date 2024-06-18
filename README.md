@@ -15,7 +15,11 @@ $$\vec{\gamma}=\left(\begin{matrix}\gamma_x\\\gamma_y\\\gamma_z\end{matrix}\righ
 ### Equation dynamique
 Au final, on détermine complètement le mouvement avec les coordonnées $x$ et $y$ de la masse suspendue. La coordonnée $z$ et sa dérivée première $\dot{z}$ sont implicitement connues. On a $z=-\sqrt{l^2-x^2-y^2}$, puis $\dot{z}=-\frac{x\dot{x}+y\dot{y}}{z}$, et enfin $v^2=\dot{x}^2+\dot{y}^2+\dot{z}^2$.
 
-L'équation dynamique avec l'état $(\begin{matrix}x&y&\dot{x}&\dot{y}\end{matrix})$ est alors :
+L'équation dynamique avec l'état
+```math
+(\begin{matrix}x&y&\dot{x}&\dot{y}\end{matrix})
+```
+est alors :
 $$l^2\ddot{x}&=-xy\gamma_y-xz\gamma_z+(l^2-x^2)\gamma_x-xv^2$$
 
 $$l^2\ddot{y}&=-yx\gamma_x-yz\gamma_z+(l^2-y^2)\gamma_y-yv^2$$
