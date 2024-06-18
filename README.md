@@ -14,6 +14,8 @@ En rapport avec la modélisation proposée ici, cet effet induit une vitesse de 
 
 $$\omega_{puiseux} \approx \dfrac{3RV}{8l^2}$$
 
+Avec la modélisation proposée, on pourra évaluer quantitativement la vitesse latérale $V$ qui viendrait par exemple annuler la précession à laquelle on s'attend avec la force de Coriolis. Cette vitesse, éventuellement très faible, met l'accent sur le fait qu'il faut une vitesse initiale rigoureuement nulle - avec les précautions expérimentales associées - pour accéder aux résultats classiques de cette expérience.
+
 ## Description
 
 ### Les notations
