@@ -1,5 +1,11 @@
 # Pendule de Foucault
 
+## Quoi de neuf ?
+
+L'expérience de Foucault est déjà ancienne et les modélisations diverses ont donné accès aux moyens de calculer la vitesse de précession du plan d'oscillation en fonction de la latitude.
+
+L'idée ici est d'accéder à une équation d'état qui 
+
 ## Description
 
 ### Les notations
