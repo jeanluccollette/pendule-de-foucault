@@ -85,15 +85,15 @@ début de la simulation numérique
 fin de la simulation à 0:00:00.815646 (hh:mm:ss.ms)
 ```
 
-Visualisation 3D de la trajectoire du pendule
+Visualisation 3D de la trajectoire du pendule.
 
 ![](Data/Figure_1.png)
 
-Variation relative de l'énergie totale (en théorie nulle) pour valider la précision de la simulation
+Variation relative de l'énergie totale (en théorie nulle) pour valider la précision de la simulation.
 
 ![](Data/Figure_2.png)
 
-Visualisation 2D de l'extrémité du pendule
+Visualisation 2D de l'extrémité du pendule.
 
 ![](Data/Figure_3.png)
 
@@ -109,6 +109,6 @@ On remarquera que l'angle de précession $\phi$ peut varier très rapidement à 
 
 ![](Data/Figure_6.png)
 
-Bilan de la simulation numérique
+Bilan de la simulation numérique.
 
 ![](Data/Figure_7.png)
