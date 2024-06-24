@@ -97,10 +97,16 @@ Visualisation 2D de l'extrémité du pendule
 
 ![](Data/Figure_3.png)
 
-Mesure de la vitesse de précession
+Mesure de la vitesse de précession avec le calcul de l'angle d'inclinaison $\theta$ et de l'angle de précession $\phi$.
 
 ![](Data/Figure_4.png)
+
+On remarquera que l'angle d'inclinaison $\theta$ ne change jamais de signe.
+
 ![](Data/Figure_5.png)
+
+On remarquera que l'angle de précession $\phi$ peut varier très rapidement à proximité de la position verticale, donc avec un angle d'inclinaison $\theta$ très proche de $0°$.
+
 ![](Data/Figure_6.png)
 
 Bilan de la simulation numérique
