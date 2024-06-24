@@ -66,7 +66,7 @@ $$
 
 ### Intérêt par rapport à la mise en équation classique
 
-On retrouve ici le problème du [pendule sphérique](https://fr.wikipedia.org/wiki/Pendule_sph%C3%A9rique), mis en équation avec un angle de précession $\phi$ et un angle d'inclinaison $\theta$. Cette mise en équation souffre cependant d'un problème lorsque $\theta$ prend des valeurs très faibles, donc lorsque l'on est proche de la position verticale. La dérivée seconde de $\phi$ ayant un terme qui est l'inverse de $\sin\theta$, celle-ci peut alors prendre des valeurs très élevées, ce qui peut nuire à la précision des méthodes numériques. Ce problème disparaît avec l'utilisation des coordonnées cartésiennes.
+On retrouve ici le problème du [pendule sphérique](https://fr.wikipedia.org/wiki/Pendule_sph%C3%A9rique), mis en équation avec un angle de précession $\phi$ et un angle de déviation $\theta$. Cette mise en équation souffre cependant d'un problème lorsque $\theta$ prend des valeurs très faibles, donc lorsque l'on est proche de la position verticale. La dérivée seconde de $\phi$ ayant un terme qui est l'inverse de $\sin\theta$, celle-ci peut alors prendre des valeurs très élevées, ce qui peut nuire à la précision des méthodes numériques. Ce problème disparaît avec l'utilisation des coordonnées cartésiennes.
 
 ## Le notebook
 
@@ -97,15 +97,15 @@ Visualisation 2D de l'extrémité du pendule
 
 ![](Data/Figure_3.png)
 
-Mesure de la vitesse de précession avec le calcul de l'angle d'inclinaison $\theta$ et de l'angle de précession $\phi$.
+Mesure de la vitesse de précession avec le calcul de l'angle de déviation $\theta$ et de l'angle de précession $\phi$.
 
 ![](Data/Figure_4.png)
 
-On remarquera que l'angle d'inclinaison $\theta$ ne change jamais de signe.
+On remarquera que l'angle de déviation $\theta$ ne change jamais de signe.
 
 ![](Data/Figure_5.png)
 
-On remarquera que l'angle de précession $\phi$ peut varier très rapidement à proximité de la position verticale, donc avec un angle d'inclinaison $\theta$ très proche de $0°$.
+On remarquera que l'angle de précession $\phi$ peut varier très rapidement à proximité de la position verticale, donc avec un angle de déviation $\theta$ très proche de $0°$.
 
 ![](Data/Figure_6.png)
 
