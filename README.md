@@ -64,6 +64,10 @@ $$
 l^2\ddot{y}=-yx\gamma_x-yz\gamma_z+(l^2-y^2)\gamma_y-yv^2
 $$
 
+### Intérêt par rapport à la mise en équation classique
+
+On retrouve ici le problème du [pendule sphérique](https://fr.wikipedia.org/wiki/Pendule_sph%C3%A9rique), mis en équation avec un angle de précession $\phi$ et un angle d'inclinaison $\theta$. Cette mise en équation souffre cependant d'un problème lorsque $\theta$ prend des valeurs très faibles, donc lorsque l'on est proche de la position verticale. La dérivée seconde de $\phi$ ayant un terme qui est l'inverse de $\sin\theta$, celle-ci peut alors prendre des valeurs très élevées, nuisant à la précision des méthodes numériques. Ce problème disparaît avec l'utilisation des coordonnées cartésiennes.
+
 ## Le notebook
 
 Un [notebook](Notebook/Pendule_de_Foucault.ipynb) est disponible et illustre les résultats de simulation avec différentes conditions initiales.
