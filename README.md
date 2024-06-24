@@ -66,7 +66,7 @@ $$
 
 ### Intérêt par rapport à la mise en équation classique
 
-On retrouve ici le problème du [pendule sphérique](https://fr.wikipedia.org/wiki/Pendule_sph%C3%A9rique), mis en équation avec un angle de précession $\phi$ et un angle de déviation $\theta$. Cette mise en équation souffre cependant d'un problème lorsque $\theta$ prend des valeurs très faibles, donc lorsque l'on est proche de la position verticale. La dérivée seconde de $\phi$ ayant un terme qui est l'inverse de $\sin\theta$, celle-ci peut alors prendre des valeurs très élevées, ce qui peut nuire à la précision des méthodes numériques de résolution, ou augmenter inconsidérément le temps de résolution avec des méthodes à pas variable. Ce problème disparaît avec l'utilisation des coordonnées cartésiennes.
+On retrouve ici le problème du [pendule sphérique](https://fr.wikipedia.org/wiki/Pendule_sph%C3%A9rique), mis aussi en équation avec un angle de précession $\phi$ et un angle de déviation $\theta$. Cette mise en équation souffre cependant d'un problème lorsque $\theta$ prend des valeurs très faibles, donc lorsque l'on est proche de la position verticale. La dérivée seconde de $\phi$ ayant un terme qui est l'inverse de $\sin\theta$, celle-ci peut alors prendre des valeurs très élevées, ce qui peut nuire à la précision des méthodes numériques de résolution, ou augmenter inconsidérément le temps de résolution avec des méthodes à pas variable. Ce problème disparaît avec l'utilisation des coordonnées cartésiennes.
 
 ## Le notebook
 
