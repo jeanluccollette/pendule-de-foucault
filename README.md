@@ -41,23 +41,16 @@ $$
 Prise en compte de la pesanteur avec $g=9,81 m/s^2$ (accélération due à la gravitation et à la force d’inertie centrifuge) et de l'accélération due à force de Coriolis.
 
 $$
-\vec{\gamma}=\left(\begin{pmatrix}
+\vec{\gamma}=\begin{pmatrix}
 \gamma_x\\
 \gamma_y\\
 \gamma_z
-\end{pmatrix}\right)=
-\left(\begin{pmatrix}
+\end{pmatrix}=
+\begin{pmatrix}
 0\\
 0\\
 -g
-\end{pmatrix}\right)-2\vec{\Omega}_T\wedge\vec{v}
-$$
-
-$$
-\vec{\gamma}=\begin{pmatrix}
-\gamma_x \\
-\gamma_y \\ 
-\gamma_z \end{pmatrix}
+\end{pmatrix}-2\vec{\Omega}_T\wedge\vec{v}
 $$
 
 ### Equation dynamique
