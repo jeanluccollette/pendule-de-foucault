@@ -44,6 +44,10 @@ $$
 \vec{\gamma}=\left(\begin{pmatrix}\gamma_x\\\gamma_y\\\gamma_z\end{pmatrix}\right)=\left(\begin{pmatrix}0\\0\\-g\end{pmatrix}\right)-2\vec{\Omega}_T\wedge\vec{v}
 $$
 
+$$
+\vec{\gamma}=\begin{pmatrix}\gamma_x\\\gamma_y\\\gamma_z\end{pmatrix}
+$$
+
 ### Equation dynamique
 
 Au final, on détermine complètement le mouvement avec les coordonnées $x$ et $y$ de la masse suspendue. La coordonnée $z$ et sa dérivée première $\dot{z}$ sont implicitement connues. On a $z=-\sqrt{l^2-x^2-y^2}$, puis $\dot{z}=-\frac{x\dot{x}+y\dot{y}}{z}$, et enfin $v^2=\dot{x}^2+\dot{y}^2+\dot{z}^2$.
