@@ -45,7 +45,10 @@ $$
 $$
 
 $$
-\vec{\gamma}=\begin{pmatrix} \gamma_x \\ \gamma_y \\ \gamma_z \end{pmatrix}
+\vec{\gamma}=\begin{pmatrix}
+\gamma_x \\
+\gamma_y \\ 
+\gamma_z \end{pmatrix}
 $$
 
 ### Equation dynamique
